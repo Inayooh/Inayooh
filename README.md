@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://visualmodo.com/wp-content/uploads/2022/11/How-To-Start-a-Software-Developer-Engineer-Career.png" width="600" height="400"/>
 </div>
-
+### :woman_technologist: About Me :
 My name is Thambir Nazrul Islam, aka Inayooh. I'm a 20 year old enginnering student, I'm coding to build a better future.
 If you have any ideas or projects you can contact me.
 
