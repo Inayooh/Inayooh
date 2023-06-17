@@ -1,12 +1,12 @@
 <h1 align= "center"> Hi there 👋 </h1>
 <div align="center">
-  <img src="https://visualmodo.com/wp-content/uploads/2022/11/How-To-Start-a-Software-Developer-Engineer-Career.png" width="600" height="400"/>
+  <img src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif" width="600" height="400"/>
 </div>
 
 ### 🧑‍🎓 About Me :
 - My name is Thambir Nazrul Islam, aka Inayooh. I'm a 20 year old enginnering student.
 
-- :mailbox:How to reach me :&nbsp; [<img src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif" width="80" height="25">](https://www.linkedin.com/in/thambir-n-464358221/) 
+- :mailbox:How to reach me :&nbsp; [<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c528.png" width="80" height="25">](https://www.linkedin.com/in/thambir-n-464358221/) 
 
 
 
