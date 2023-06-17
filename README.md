@@ -3,7 +3,8 @@ My name is Thambir Nazrul Islam, aka Inayooh. I'm a 20 year old enginnering stud
 If you have any ideas or projects you can contact me.
 
 ##Programming Languauges
-go logo
+
+
 
 <!--
 **Inayooh/Inayooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
