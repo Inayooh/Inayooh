@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-  <img src="https://visualmodo.com/wp-content/uploads/2022/11/How-To-Start-a-Software-Developer-Engineer-Career.png" width="600" height="300"/>
+  <img src="https://visualmodo.com/wp-content/uploads/2022/11/How-To-Start-a-Software-Developer-Engineer-Career.png" width="600" height="400"/>
 </div>
 
 My name is Thambir Nazrul Islam, aka Inayooh. I'm a 20 year old enginnering student, I'm coding to build a better future.
