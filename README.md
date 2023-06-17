@@ -6,9 +6,10 @@
 ### 🧑‍🎓 About Me :
 - My name is Thambir Nazrul Islam, aka Inayooh. I'm a 20 year old engineering student.
 ### 🏫 My school :
-- [<img src="https://www.cfa-afia.com/app/uploads/2022/01/logo-efrei-print-efrei-web.png" width="100" height="33">](https://www.efrei.fr)
+- &nbsp; [<img src="https://www.cfa-afia.com/app/uploads/2022/01/logo-efrei-print-efrei-web.png" width="100" height="33">](https://www.efrei.fr)
 
-- :mailbox:How to reach me :&nbsp; [<img src="https://logos-marques.com/wp-content/uploads/2021/03/Linkedin-logo.png" width="100" height="50">](https://www.linkedin.com/in/thambir-n-464358221/) 
+### :mailbox: Contact me :
+- &nbsp; [<img src="https://logos-marques.com/wp-content/uploads/2021/03/Linkedin-logo.png" width="100" height="50">](https://www.linkedin.com/in/thambir-n-464358221/) 
 
 
 
