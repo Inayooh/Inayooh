@@ -1,4 +1,4 @@
-<div align= "center"> ### Hi there 👋 </div>
+<h1 align= "center"> Hi there 👋 </h1>
 <div align="center">
   <img src="https://visualmodo.com/wp-content/uploads/2022/11/How-To-Start-a-Software-Developer-Engineer-Career.png" width="600" height="400"/>
 </div>
