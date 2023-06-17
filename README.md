@@ -1,6 +1,6 @@
 <h1 align= "center"> Hi there 👋 </h1>
 <div align="center">
-  <img src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif" width="600" height="400"/>
+  <img src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif" />
 </div>
 
 ### 🧑‍🎓 About Me :
