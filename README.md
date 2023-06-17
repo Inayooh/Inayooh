@@ -6,7 +6,7 @@
 ### 🧑‍🎓 About Me :
 - My name is Thambir Nazrul Islam, aka Inayooh. I'm a 20 year old enginnering student.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://cdn-icons-png.flaticon.com/512/1051/1051384.png=200x200)](https://www.linkedin.com/in/thambir-n-464358221/)
+- :mailbox:How to reach me: [<img src="https://cdn-icons-png.flaticon.com/512/1051/1051384.png" width="100" height="100">](https://www.linkedin.com/in/thambir-n-464358221/)
 
 
 
