@@ -7,6 +7,10 @@
 My name is Thambir Nazrul Islam, aka Inayooh. I'm a 20 year old enginnering student, I'm coding to build a better future.
 If you have any ideas or projects you can contact me.
 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+
+
 ### :hammer_and_wrench: Languages :
 
 
