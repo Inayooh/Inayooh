@@ -4,7 +4,7 @@
 </div>
 
 ### 🧑‍🎓 About Me :
-- My name is Thambir Nazrul Islam, aka Inayooh. I'm a 20 year old engineering student.
+- My name is Thambir Nazrul, aka Inayooh. I'm a 21 year old engineering student.
 ### 🏫 My school :
 &nbsp; [<img src="https://www.cfa-afia.com/app/uploads/2022/01/logo-efrei-print-efrei-web.png" width="100" height="40">](https://www.efrei.fr)
 
